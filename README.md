@@ -67,4 +67,4 @@ Edit an existing expense
 Budget limits with warnings
 Author
 
-Made by [Areeba]. Feel free to open an issue or suggest improvements!
+Made by Areeba. Feel free to open an issue or suggest improvements!
